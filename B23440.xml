@@ -1,0 +1,2728 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Geographical cards made and sold for Henry Brome at ye Gun in St. Pauls Church-yard. London 1676</title>
+         </titleStmt>
+         <extent>Approx. 29KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23440</idno><idno type="EEBO-CITATION">99829923</idno>
+  <idno type="VID">207247</idno>
+  <idno type="EEBO-PROQUEST">2264221654</idno>
+  
+            <idno type="STC">Wing G524A</idno>
+            <idno type="PROQUEST">99829923</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829923e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2029:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Geographical cards made and sold for Henry Brome at ye Gun in St. Pauls Church-yard. London 1676</title>
+               </titleStmt>
+               <extent>[102] p. [1] fold. leaf : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome, at the Gun at the West end of St. Pauls,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>1675 [i.e. 1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page is a folded leaf; imprint at foot on verso.</note>
+                  <note>At foot of imprint: Price - 1 s.</note>
+                  <note>Only rectos printed; the pages are intended to be used as playing cards.</note>
+                  <note>"The four suits are the four parts of the world; and not without some reason or analogy, the hearts describe Europe, the diamonds Asia, the spades Africa, and the clubs America or the West-Indies."--cf. explanation of game on verso of title page.</note>
+                  <note>Imperfect? The five of diamonds is lacking.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Card games --  England --  Early works to 1800.</term>
+               <term type="topical_term">Geography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="engraved_title_page">
+            <pb facs="tcp:207247:1"/>
+            <pb facs="tcp:207247:1"/>
+            <p>
+               <figure>
+                  <figDesc>Title page text engraved within a decorative cartouche.</figDesc>
+                  <p>Geographical Cards, Made and Sold For Henry Brome at y<seg rend="sup">e</seg> Gun in S.<seg rend="sup">t</seg> Pauls Church-yard.</p>
+                  <p>London 1676</p>
+                  <byline>Gr. King Sc.<seg rend="sup">r</seg>.</byline>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:207247:2"/>
+            <p>
+               <figure>
+                  <head>The Contrivance of these Cards is so plain and perspicuous, that the use of them in all our <hi>English</hi> Games, as of common playing Cards, is to be shewn in few words.</head>
+                  <p>THe four Suits are the four Parts of the World; and not with<g ref="char:EOLhyphen"/>out some Reason or Analogy, the Hearts describe <hi>Europe,</hi> the Diamonds <hi>Asia,</hi> the Spades <hi>Africa,</hi> and the Clubs <hi>America</hi> or the <hi>West-Indies.</hi>
+                  </p>
+                  <p>Each Ace divides a Quarter of the World into its known and Ge<g ref="char:EOLhyphen"/>neral Division, and shews its Latitude and Longitude; the other Cards of the same Suit subdivide those Countries into their more exact and usual Parts, giving the Names of the chief Places, and shewing the Latitude and Longitude of the Country to which the Card belongs.</p>
+                  <p>All the Coat-Cards (as Kings, Queens and Knaves) are reduced to ten Heads or Divisions.</p>
+                  <p>All the other Cards without any force contain precisely that num<g ref="char:EOLhyphen"/>ber of Kingdoms, Countries, Provinces and other Divisions, which gives the Name to the Card.</p>
+                  <p>The General and Particular Divisions, with the Latitude and Longitude of Countries are the same as in the Maps of the Sieur <hi>Sanson</hi> that modern, famous and allowed <hi>French</hi> Geographer.</p>
+                  <p>The great and infinite Benefit of obtaining and retaining a Sy<g ref="char:EOLhyphen"/>stem of Universal Geography so easily, pleasantly and familiarity is so apparent as not to need any Argument or Persuasion.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>Printed for <hi>Heary-Brome,</hi> at the Gun at the West end of St. <hi>Pauls.</hi> 1675, <hi>PRICE — 1<abbr>s</abbr>
+               </hi>
+            </p>
+         </div>
+         <div type="playing_card__ace_of_hearts">
+            <pb facs="tcp:207247:2"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved ace of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>I</head>
+                     <p>
+                        <hi>1</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Europe, framing the description of the region.</figDesc>
+                     <p>Lat. N. 72.</p>
+                     <p>
+                        <hi>Long. W. 10.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 35.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 100</hi>
+                     </p>
+                     <figure>
+                        <p>EUROPE <hi>hath</hi>
+                           <list>
+                              <item>
+                                 <hi>towards the West</hi>
+                                 <list>
+                                    <item>
+                                       <hi>The</hi> Brittish Isles.</item>
+                                    <item>France.</item>
+                                    <item>Spain.</item>
+                                    <item>Portugal.</item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>in the Middle</hi>
+                                 <list>
+                                    <item>
+                                       <hi>The Frontiers of</hi> France.</item>
+                                    <item>Italy.</item>
+                                    <item>Germany.</item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>towards y<seg rend="sup">e</seg> North</hi>
+                                 <list>
+                                    <item>
+                                       <hi>The</hi> United Provinces</item>
+                                    <item>Scandinavia, <hi>or the Kingd<seg rend="sup">ms</seg> of</hi> Denmark.</item>
+                                    <item>Norway <hi>and</hi>—</item>
+                                    <item>Sweden.—</item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>towards the East</hi>
+                                 <list>
+                                    <item>Poland.</item>
+                                    <item>Lythuania.</item>
+                                    <item>Turky, <hi>in Europe.</hi>
+                                    </item>
+                                    <item>Muscovie.</item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>Islands.</hi>
+                                 <list>
+                                    <item>
+                                       <hi>In the</hi> Ocean.</item>
+                                    <item>
+                                       <hi>In the</hi> Mediterranean</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__King_of_hearts">
+            <pb facs="tcp:207247:3"/>
+            <pb facs="tcp:207247:3"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved King of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart, a portrait of King Charles II, and a crown.</figDesc>
+                     <p>CHARLES. II.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of the British Isles, framing the description of the region.</figDesc>
+                     <p>Lat. N. 60</p>
+                     <p>
+                        <hi>Long. W. 8</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 50.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 23</hi>
+                     </p>
+                     <figure>
+                        <head>The BRITTISH ISLES Contain <hi>Three Kingdomes</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>ENGLAND—
+<list>
+                                    <item>
+                                       <hi>LONDON.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>York.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Scotland—
+<list>
+                                    <item>
+                                       <hi>Edenborough.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>S.<seg rend="sup">t</seg> Andrews.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Ireland—
+<list>
+                                    <item>
+                                       <hi>Dublin.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Armagh.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>England (Wales <hi>
+                                    <gap reason="illegible" resp="#oxf" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>xcepted) in y<seg rend="sup">e</seg> time of y<seg rend="sup">e</seg>
+                                 </hi> Saxons <hi>had y<seg rend="sup">e</seg> Kingdoms called y<seg rend="sup">e</seg>
+                                 </hi> Heptarchy. <hi>viz.<seg rend="sup">t</seg>
+                                 </hi>
+                                 <list>
+                                    <item>
+                                       <hi>The Kingdome of</hi>
+                                       <list>
+                                          <item>Kent.</item>
+                                          <item>
+                                             <hi>The</hi> S. Saxons.</item>
+                                          <item>
+                                             <hi>The</hi> E. Angles.</item>
+                                          <item>
+                                             <hi>The</hi> E. Saxons.</item>
+                                          <item>
+                                             <hi>The</hi> W. Saxons.</item>
+                                          <item>Northumberland.</item>
+                                          <item>Mercia.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__Queen_of_hearts">
+            <pb facs="tcp:207247:4"/>
+            <pb facs="tcp:207247:4"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved Queen of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart and a portrait of Rhea Silvia.</figDesc>
+                     <p>RHEA-SILVIA.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Italy, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 45.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 29.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 37 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 42.</hi>
+                     </p>
+                     <figure>
+                        <head>ITALY <hi>hath these</hi> States.</head>
+                        <p>
+                           <list>
+                              <item>The Principality of—<hi>Piedmont.—Turin.</hi>
+                              </item>
+                              <item>The Principality of—<hi>Massa.—Massa.</hi>
+                              </item>
+                              <item>The Marquisat of—<hi>Montferat.—Casal.</hi>
+                              </item>
+                              <item>The Dukedom of—<hi>Tuscany.—Florence.</hi>
+                              </item>
+                              <item>The Duchies of—<hi>Milan.—Milan.</hi>
+                              </item>
+                              <item>The Duchies of—<hi>Parma.—Parma.</hi>
+                              </item>
+                              <item>The Duchies of—<hi>Modena.—Modena.</hi>
+                              </item>
+                              <item>The Duchies of—<hi>Mantua.—Mantua.</hi>
+                              </item>
+                              <item>The Republiques of <hi>Venice.—Venice.</hi>
+                              </item>
+                              <item>The Republiques of <hi>Genoa.—Genoa.</hi>
+                              </item>
+                              <item>The Republiques of <hi>Luca.—Luca.</hi>
+                              </item>
+                              <item>The Bishoprick of—<hi>Trent.—Trent.</hi>
+                              </item>
+                              <item>S.<seg rend="sup">t</seg> Peters Patrimony—<hi>Rome.</hi>—</item>
+                              <item>The Estates of the Church— <hi>The Bolognese Bologna.</hi>
+                              </item>
+                              <item>The Estates of the Church— <hi>The Ferrarese Ferrara.</hi>
+                              </item>
+                              <item>The Estates of the Church— <hi>Romagna.—Ravenna.</hi>
+                              </item>
+                              <item>The Estates of the Church— <hi>Urbino.—Urbino.</hi>
+                              </item>
+                              <item>The Estates of the Church—<hi>Marca Ancona, Loretto.</hi>
+                              </item>
+                              <item>The Kingdom of—<hi>Naples.</hi>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__Knave_of_hearts">
+            <pb facs="tcp:207247:5"/>
+            <pb facs="tcp:207247:5"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved Knave of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart and a portrait of a Greek man.</figDesc>
+                     <p>A Greek.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Turkey, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 48</hi>
+                     </p>
+                     <p>
+                        <hi>Sang. M. 44</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 34.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 65.</hi>
+                     </p>
+                     <figure>
+                        <head>TURKIE in EUROPE.</head>
+                        <p>
+                           <hi>Containes.</hi>
+                           <list>
+                              <item>Romania <hi>or</hi> Thrace—
+<list>
+                                    <item>
+                                       <hi>Constantinople.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Adrianople.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>The little</hi> Tartary.
+<list>
+                                    <item>
+                                       <hi>Crim.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Moldavia.—
+<list>
+                                    <item>
+                                       <hi>Soczawa.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Walachia—
+<list>
+                                    <item>
+                                       <hi>Turgavisto.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Transilvania—
+<list>
+                                    <item>
+                                       <hi>Allia Tulia or Wensenberg.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Hungaria.—
+<list>
+                                    <item>
+                                       <hi>Buda.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Greece.—
+<list>
+                                    <item>
+                                       <hi>Salonica.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Sclavonia, <hi>with its Provinces—</hi>
+                                 <list>
+                                    <item>
+                                       <hi>Servia.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Bulgaria.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Bosnia—
+<list>
+                                    <item>
+                                       <hi>Taiza.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Islands <hi>in the</hi>—
+<list>
+                                    <item>Aegean.—<hi>Seas.</hi>
+                                    </item>
+                                    <item>Jonian—<hi>Seas.</hi>
+                                    </item>
+                                    <item>Adriati{que}—<hi>Seas.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__ten_of_hearts">
+            <pb facs="tcp:207247:6"/>
+            <pb facs="tcp:207247:6"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved ten of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>X</head>
+                     <p>
+                        <hi>10</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Germany, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 55</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 48.</hi>
+                     </p>
+                     <p>
+                        <hi>Long N. 27.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 39.</hi>
+                     </p>
+                     <figure>
+                        <head>The Empire of GERMANY is divided into X. Circles <hi>The Kingdom of</hi> Bohemia <hi>not included.</hi>
+                        </head>
+                        <p>
+                           <hi>The Circle of</hi>
+                           <list>
+                              <item>Franconia.—
+<list>
+                                    <item>
+                                       <hi>Francfort.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Nuremberg.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Bavaria.—
+<list>
+                                    <item>
+                                       <hi>Munichen.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Austria.—
+<list>
+                                    <item>
+                                       <hi>Vienna.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Suabia.—
+<list>
+                                    <item>
+                                       <hi>Ausbourgh.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ulm<gap reason="illegible" resp="#oxf" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap>.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>The</hi> Higher Rhine <hi>or</hi> Alsatia.—
+<list>
+                                    <item>
+                                       <hi>Strasbourgh.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Cassel.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>The</hi> Lower <hi>or</hi> Elec<g ref="char:EOLhyphen"/>toral Rhine.—
+<list>
+                                    <item>
+                                       <hi>Meidelbergh.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Mayence.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Troves.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Cologne.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Westphalia.—
+<list>
+                                    <item>
+                                       <hi>Munster.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>The</hi> Higher Saxony
+<list>
+                                    <item>
+                                       <hi>Dresden.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Berlin.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Stetin.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Lower Saxony.—
+<list>
+                                    <item>
+                                       <hi>Brunswick.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Hambrough.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Lubeck.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Burgundy:
+<list>
+                                    <item>
+                                       <hi>Containing y<seg rend="sup">e</seg> 10. Catholi{que} and 7. United Provinces.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__nine_of_hearts">
+            <pb facs="tcp:207247:7"/>
+            <pb facs="tcp:207247:7"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved nine of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>IX</head>
+                     <p>
+                        <hi>9</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of the Mediterranean, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 45.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 30.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. N. 14.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. by.</hi>
+                     </p>
+                     <figure>
+                        <head>The IX. Chief Islands in the MEDITERRANEAN <hi>Counted in Europe.</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>Sicily.—
+<list>
+                                    <item>
+                                       <hi>Palermo.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Messina.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Sardinia.—
+<list>
+                                    <item>
+                                       <hi>Callari.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Corsica.—
+<list>
+                                    <item>
+                                       <hi>Baslia.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Majorea.—
+<list>
+                                    <item>
+                                       <hi>Majorea.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Minorea.—
+<list>
+                                    <item>
+                                       <hi>Portellahon.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Corfu—
+<list>
+                                    <item>
+                                       <hi>Corfu.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Cephalenia.—
+<list>
+                                    <item>
+                                       <hi>Cephalenia.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Zante.—
+<list>
+                                    <item>
+                                       <hi>Zante.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Crete <hi>or</hi> Candia.
+<list>
+                                    <item>
+                                       <hi>Candia.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Canca.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__eight_of_hearts">
+            <pb facs="tcp:207247:8"/>
+            <pb facs="tcp:207247:8"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved eight of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>VIII</head>
+                     <p>
+                        <hi>8</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of France, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 51.</hi>
+                     </p>
+                     <p>
+                        <hi>Long W. 15.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 40.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. N. 29.</hi>
+                     </p>
+                     <figure>
+                        <head>
+                           <hi>There are in</hi> FRANCE VIII. Ancient Soverain Courts of Iustice <hi>or</hi> Parliaments.</head>
+                        <p>
+                           <hi>In</hi>
+                           <list>
+                              <item>
+                                 <hi>The</hi> Isle <hi>of</hi> France.—
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Paris.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Normandy.—
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Rouen.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Britanny.—
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Renes.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Guiene.—
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Bourdeaux.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Languedoc.
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Tholouse.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Provence.—
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Aix.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Dauphine.—
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Grenoble.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Burgundy.—
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Dijon.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                        <p>To which have been added,</p>
+                        <p>
+                           <hi>In</hi>
+                           <list>
+                              <item>Lorrain.—
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam<seg rend="sup">t</seg>. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Mets.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Bearn.—
+<list>
+                                    <item>
+                                       <hi>The Par<g ref="char:EOLhyphen"/>liam<seg rend="sup">t</seg>. of</hi>
+                                       <list>
+                                          <item>
+                                             <hi>Pau.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__seven_of_hearts">
+            <pb facs="tcp:207247:9"/>
+            <pb facs="tcp:207247:9"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved seven of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>VII</head>
+                     <p>
+                        <hi>7</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Sweden, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 68.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 56 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 34.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 56.</hi>
+                     </p>
+                     <figure>
+                        <head>SWEDEN <hi>Hath these</hi> VII. <hi>Considerable Parts.</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>East Gotland.—
+<list>
+                                    <item>
+                                       <hi>Colmar.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>West Gotland.—
+<list>
+                                    <item>
+                                       <hi>Gotenburgh.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Sweden.—
+<list>
+                                    <item>
+                                       <hi>Stockholm.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Upsal.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Lapland. —
+<list>
+                                    <item>—</item>
+                                 </list>
+                              </item>
+                              <item>Finland.—
+<list>
+                                    <item>
+                                       <hi>Abo.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Ingria.—
+<list>
+                                    <item>
+                                       <hi>Noteburgh.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Lifeland.—
+<list>
+                                    <item>
+                                       <hi>Riga.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__six_of_hearts">
+            <pb facs="tcp:207247:10"/>
+            <pb facs="tcp:207247:10"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved six of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>VI</head>
+                     <p>
+                        <hi>6</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Poland, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 57</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 48.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 40.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 57.</hi>
+                     </p>
+                     <figure>
+                        <head>These VI. Countries are Subject to the Crown of POLAND.</head>
+                        <p>
+                           <list>
+                              <item>The Kingdom of Poland, <hi>divided into y<seg rend="sup">e</seg>
+                                 </hi> Higher <hi>&amp;</hi> Lower Polonia.—
+<list>
+                                    <item>
+                                       <hi>Warsow.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Crakow.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The great Dukedom of Lithuania.—
+<list>
+                                    <item>
+                                       <hi>Vilna.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Grodna.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Ukrain <hi>or</hi> Coun<g ref="char:EOLhyphen"/>try of the Cosaques.
+<list>
+                                    <item>
+                                       <hi>Kiow.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Bialacerkew.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Duchy of Prussia.—
+<list>
+                                    <item>
+                                       <hi>Dantzik.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Konisberg.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Pilaw.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Memel.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Duchy of Courland.—
+<list>
+                                    <item>
+                                       <hi>Mitaw.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Samogitia. —
+<list>
+                                    <item>
+                                       <hi>Roziem.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__five_of_hearts">
+            <pb facs="tcp:207247:11"/>
+            <pb facs="tcp:207247:11"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved five of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>V</head>
+                     <p>5</p>
+                  </figure>
+                  <head>These V. Countries border on FRANCE</head>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of the Spanish Netherlands, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 51 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 23.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 27 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 50.</hi>
+                     </p>
+                     <p>The Spanish Ne<g ref="char:EOLhyphen"/>therl.<seg rend="sup">ds</seg>
+                        <hi>or</hi> the Ca<g ref="char:EOLhyphen"/>tholic Provinces.
+<list>
+                           <item>
+                              <hi>Antwerp.</hi>
+                           </item>
+                           <item>
+                              <hi>Brussels.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <figDesc>the latitudinal and longitudinal extent of Lorraine, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 49 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 27.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 29.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 48.</hi>
+                     </p>
+                     <p>Lorrain.—
+<list>
+                           <item>
+                              <hi>Nancy.</hi>
+                           </item>
+                           <item>
+                              <hi>Metz.</hi>
+                           </item>
+                           <item>
+                              <hi>Toul.</hi>
+                           </item>
+                           <item>
+                              <hi>Perdun.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <figDesc>the latitudinal and longitudinal extent of Burgundy, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 48.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 28.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 27.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 46.</hi>
+                     </p>
+                     <p>The Franche Com<g ref="char:EOLhyphen"/>té <hi>or the County</hi> of Burgundy.—
+<list>
+                           <item>
+                              <hi>Dole.</hi>
+                           </item>
+                           <item>
+                              <hi>Besanson.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <figDesc>the latitudinal and longitudinal extent of Switzerland, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 47 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 28.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 30 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 45 ½</hi>
+                     </p>
+                     <p>Swisserland.—
+<list>
+                           <item>
+                              <hi>Zurich.</hi>
+                           </item>
+                           <item>
+                              <hi>Bearn.</hi>
+                           </item>
+                           <item>
+                              <hi>Basel.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <figDesc>the latitudinal and longitudinal extent of Savoy, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 46.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 26 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 28.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 45.</hi>
+                     </p>
+                     <p>Savoy.—
+<list>
+                           <item>
+                              <hi>Chamberry.</hi>
+                           </item>
+                        </list>
+                     </p>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__four_of_hearts">
+            <pb facs="tcp:207247:12"/>
+            <pb facs="tcp:207247:12"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved four of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>IV</head>
+                     <p>
+                        <hi>4</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Spain, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 44.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 9.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 24.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 35.</hi>
+                     </p>
+                     <head>SPAIN was formerly divided into IV. Kingdoms.</head>
+                     <p>
+                        <list>
+                           <item>Castile, <hi>at pres<seg rend="sup">t</seg>. divided into y<seg rend="sup">e</seg> Old and New.</hi>—
+<list>
+                                 <item>
+                                    <hi>Madrid.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Toledo.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Burgos.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Leon.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Bilbo.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Oriedo.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>S<seg rend="sup">t</seg>. Jaques in Gallicia.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Sevil.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Grenada.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Murcia.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Aragon.—
+<list>
+                                 <item>
+                                    <hi>Saragosa.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Barcelona.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Valentia.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Navar.—
+<list>
+                                 <item>
+                                    <hi>Pampelone.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>PORTUGAL.—
+<list>
+                                 <item>
+                                    <hi>Lisbon.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Porto.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Bragança.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Coimbra.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Erora.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Faro.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </p>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__three_of_hearts">
+            <pb facs="tcp:207247:13"/>
+            <pb facs="tcp:207247:13"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved three of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>III</head>
+                     <p>
+                        <hi>3</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Russia, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 70.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 55.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 100.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat N. 49.</hi>
+                     </p>
+                     <figure>
+                        <head>MOSCOVY <hi>or</hi> The Great and White Russia <hi>is Triply Divided, into</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>Kingdoms.
+<list>
+                                    <item>
+                                       <hi>Casan.—Casan</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Astracan.—Astracan</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Bulgaria.—Bulgar.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Duchies.
+<list>
+                                    <item>
+                                       <hi>Moscoria.—Moscow.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Wolodomire.—Wolodomire.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Duina.—Archangel.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Pleskow.—Plesko.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Smolensko.—Smolensko.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Hoords, <hi>or Comonalties of Tartars.</hi>
+                                 <list>
+                                    <item>
+                                       <hi>Pega Horda &amp;c.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__two_of_hearts">
+            <pb facs="tcp:207247:14"/>
+            <pb facs="tcp:207247:14"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved two of hearts playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single heart.</figDesc>
+                     <head>II</head>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Denmark, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 70.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 54.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 28.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 35.</hi>
+                     </p>
+                     <figure>
+                        <head>DENMARK Hath II. Kingdoms.</head>
+                        <p>
+                           <list>
+                              <item>Denmark.—
+<list>
+                                    <item>
+                                       <hi>Copenhagen.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Elsenor.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Odensee.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Sleswick.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Glukstad.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Norway.—
+<list>
+                                    <item>
+                                       <hi>Bergen.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Dronthem.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Christiana.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__ace_of_diamonds">
+            <pb facs="tcp:207247:15"/>
+            <pb facs="tcp:207247:15"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved ace of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond.</figDesc>
+                     <head>I</head>
+                     <p>1</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Asia, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 72.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. S. 10.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 55.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 185.</hi>
+                     </p>
+                     <figure>
+                        <p>ASIA <hi>hath</hi>
+                           <list>
+                              <item>
+                                 <hi>On y<seg rend="sup">e</seg> main Land</hi>
+                                 <list>
+                                    <item>Turky <hi>in Asia.</hi>
+                                    </item>
+                                    <item>Georgia.</item>
+                                    <item>Arabia.</item>
+                                    <item>Persia.</item>
+                                    <item>Tartary.</item>
+                                    <item>China.</item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>In y<seg rend="sup">e</seg> East Indies.</hi>—
+<list>
+                                    <item>
+                                       <hi>The</hi> Empire <hi>of the</hi>— Mogol.</item>
+                                    <item>
+                                       <hi>The Peninsula of</hi> India— <hi>without the</hi> Ganges.</item>
+                                    <item>
+                                       <hi>The Peninsula of</hi> India— <hi>within the</hi> Ganges.</item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>Islands</hi>—
+<list>
+                                    <item>
+                                       <hi>In the</hi> Ocean.</item>
+                                    <item>
+                                       <hi>In the</hi> Mediterranean.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__King_of_diamonds">
+            <pb facs="tcp:207247:16"/>
+            <pb facs="tcp:207247:16"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved King of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond, a portrait of a Chinese ruler, and a crown.</figDesc>
+                     <p>VANLIE.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of China, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 45</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 18 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 135.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 170.</hi>
+                     </p>
+                     <figure>
+                        <head>The Kingdom of CHINA</head>
+                        <p>
+                           <hi>Hath towards y<seg rend="sup">e</seg> South X Provinces Besides VI towards y<seg rend="sup">e</seg> North.</hi>
+                           <list>
+                              <item>Nanquin. <hi>Nanquin.</hi>
+                              </item>
+                              <item>Chequian. <hi>Hamceu.</hi>
+                              </item>
+                              <item>Fuchien. — <hi>Fucheu.</hi>
+                              </item>
+                              <item>Canton. — <hi>Quangcen.</hi>
+                              </item>
+                              <item>Quansi. — <hi>Quansi.</hi>
+                              </item>
+                              <item>Yunnan. — <hi>Yunnan.</hi>
+                              </item>
+                              <item>Quicheu. — <hi>Quicheo.</hi>
+                              </item>
+                              <item>Chiamsi. — <hi>Nanciam.</hi>
+                              </item>
+                              <item>Suchuem. <hi>Suchuem.</hi>
+                              </item>
+                              <item>Huquam. <hi>Ambian.</hi>
+                              </item>
+                           </list>
+                        </p>
+                        <p>
+                           <hi>The North: Provinces are.</hi>
+                           <list>
+                              <item>Lealoton. — <hi>Lealoton.</hi>
+                              </item>
+                              <item>Pequin. — <hi>Pequin.</hi>
+                              </item>
+                              <item>Scianton. — <hi>Xanton.</hi>
+                              </item>
+                              <item>Sciansi. — <hi>Sciansi.</hi>
+                              </item>
+                              <item>Sciensi. — <hi>Sigansu<gap reason="illegible" resp="#oxf" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>
+                                 </hi>
+                              </item>
+                              <item>Honan. — <hi>Honan.</hi>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__Queen_of_diamonds">
+            <pb facs="tcp:207247:17"/>
+            <pb facs="tcp:207247:17"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved Queen of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond, and a portrait of a Persian queen.</figDesc>
+                     <p>STATIRA.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Persia, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 43.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. V. 25.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 81.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 110.</hi>
+                     </p>
+                     <figure>
+                        <head>PERSIA</head>
+                        <p>
+                           <hi>Hath these Provinces.</hi>
+                           <list>
+                              <item>Servan. —
+<list>
+                                    <item>
+                                       <hi>Tauris. — On y<seg rend="sup">e</seg> Cas<g ref="char:EOLhyphen"/>pian Sea</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Gilan —
+<list>
+                                    <item>
+                                       <hi>Rast — On y<seg rend="sup">e</seg> Cas<g ref="char:EOLhyphen"/>pian Sea</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Tabarestan. —
+<list>
+                                    <item>
+                                       <hi>Asterabad. On y<seg rend="sup">e</seg> Cas<g ref="char:EOLhyphen"/>pian Sea</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Rhoemus. —
+<list>
+                                    <item>
+                                       <hi>Thous. — On y<seg rend="sup">e</seg> Cas<g ref="char:EOLhyphen"/>pian Sea</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Bestan. — On y<seg rend="sup">e</seg> Cas<g ref="char:EOLhyphen"/>pian Sea</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Gorgian —
+<list>
+                                    <item>
+                                       <hi>Gorgian.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Hyrack Agemi. —
+<list>
+                                    <item>
+                                       <hi>Cashin.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Hispahan.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Chorasan. —
+<list>
+                                    <item>
+                                       <hi>Kayem.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Herat.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Chusistan. —
+<list>
+                                    <item>
+                                       <hi>Souster.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ardgan.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Fars. —
+<list>
+                                    <item>
+                                       <hi>Astachar.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Shiras.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Kherman. —
+<list>
+                                    <item>
+                                       <hi>Cherman.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ormus.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Gombrone.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__Knave_of_diamonds">
+            <pb facs="tcp:207247:18"/>
+            <pb facs="tcp:207247:18"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved Knave of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond, and a portrait of a Turkish man.</figDesc>
+                     <p>A Janifray.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Eastern Turkey, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 50.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 30.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 57.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 82.</hi>
+                     </p>
+                     <figure>
+                        <head>TURKY in ASIA. <hi>Hath these large Provinces.</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>Anatolia <hi>or</hi> Asia <hi>the lesse</hi>—
+<list>
+                                    <item>
+                                       <hi>Bursia.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Smyrna;</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Trebisond.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Souria <hi>or</hi> Syria —
+<list>
+                                    <item>
+                                       <hi>Alexandrette.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Aleppo.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Antiochia.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Phoenicia —
+<list>
+                                    <item>
+                                       <hi>Damascus.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tyre.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Sydon.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Palestine <hi>or y<seg rend="sup">e</seg> Holy Land</hi> —
+<list>
+                                    <item>
+                                       <hi>Ierusalem.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Nazareth.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Bethleem.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Yerac <hi>or</hi> Chaldea. —
+<list>
+                                    <item>
+                                       <hi>Bagded.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Balsera.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Arzerum <hi>or</hi> Assyria. —
+<list>
+                                    <item>
+                                       <hi>Ninive.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Mosul.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Diarbeck <hi>or Mesopotamia.</hi> —
+<list>
+                                    <item>
+                                       <hi>Caremit.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Haran.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Turcomania <hi>or the</hi> Greater Armenia —
+<list>
+                                    <item>
+                                       <hi>Erzerum.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Cars or Chissery.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Georgia —
+<list>
+                                    <item>
+                                       <hi>Teflis.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Comania <hi>or</hi> Circassia —
+<list>
+                                    <item>
+                                       <hi>Zingis.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__ten_of_diamonds">
+            <pb facs="tcp:207247:19"/>
+            <pb facs="tcp:207247:19"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved ten of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond</figDesc>
+                     <head>X</head>
+                     <p>10</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Mongolia, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 40.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 20.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 120.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 134.</hi>
+                     </p>
+                     <figure>
+                        <head> The Empire of The GREAT MOGOL <hi>Hath on the Main Sand and in India without the Ganges These X. Cheif Provinces.</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>Cabul. —
+<list>
+                                    <item>
+                                       <hi>Cabul.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Candahar. —
+<list>
+                                    <item>
+                                       <hi>Candahar.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Guzurat. —
+<list>
+                                    <item>
+                                       <hi>Abedabat.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Surat.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Dic.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Bengala. —
+<list>
+                                    <item>
+                                       <hi>Gouro.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Bengala.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Agra. —
+<list>
+                                    <item>
+                                       <hi>Agra.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Delli. —
+<list>
+                                    <item>
+                                       <hi>Delli.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Pengab. —
+<list>
+                                    <item>
+                                       <hi>Pengab, or</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Lahor.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Cassimeer. —
+<list>
+                                    <item>
+                                       <hi>Sirinaker.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Siba. —
+<list>
+                                    <item>
+                                       <hi>Hodware.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Iamba. —
+<list>
+                                    <item>
+                                       <hi>Iamba.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__nine_of_diamonds">
+            <pb facs="tcp:207247:20"/>
+            <pb facs="tcp:207247:20"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved nine of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond</figDesc>
+                     <head>IX</head>
+                     <p>9</p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of India, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 22.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 8.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 115.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 124.</hi>
+                     </p>
+                     <figure>
+                        <head> The Peninsula of INDIA without y<seg rend="sup">e</seg> GANGES <hi>Hath these IX. Great Realms or Estates.</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>The Kingd<seg rend="sup">m</seg>. of Decan. —
+<list>
+                                    <item>
+                                       <hi>Chaul.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Kingd<seg rend="sup">m</seg>. of Cuncan. —
+<list>
+                                    <item>
+                                       <hi>Goa.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Kingd<seg rend="sup">m</seg>. of Bisnagar <hi>or</hi> Narsinga. —
+<list>
+                                    <item>
+                                       <hi>Narsinga.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Kingd<seg rend="sup">m</seg>. <hi>and</hi> Coast of Malabar. —
+<list>
+                                    <item>
+                                       <hi>Calecur.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Cochim.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Coast of the Piseary <hi>or</hi> Pearl-sishing. —
+<list>
+                                    <item>
+                                       <hi>Tutucori.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Naiques <hi>or</hi> Here<g ref="char:EOLhyphen"/>ditary Lords <hi>of</hi>
+                                 <list>
+                                    <item>
+                                       <hi>Gingi.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tanjaor.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Madure.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Coast of Cormandel. —
+<list>
+                                    <item>
+                                       <hi>S<seg rend="sup">t</seg>. Thomas.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Mcliapor.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Kingd<seg rend="sup">m</seg>. of Colconda. —
+<list>
+                                    <item>
+                                       <hi>Musuliapatan.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>The Kingd<seg rend="sup">m</seg>. of Orixa. —
+<list>
+                                    <item>
+                                       <hi>Orixa.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__eight_of_diamonds">
+            <pb facs="tcp:207247:21"/>
+            <pb facs="tcp:207247:21"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved eight of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond</figDesc>
+                     <head>VIII</head>
+                     <p>
+                        <hi>8</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of India, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 40.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 25.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 134.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 140.</hi>
+                     </p>
+                     <figure>
+                        <head>The Main Land of INDIA within the GANGES <hi>Hath these VIII. Provinces.</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>Gortan. — <hi>Gor.</hi>
+                              </item>
+                              <item>Pitan. — <hi>Pitan.</hi>
+                              </item>
+                              <item>Kanduana. — <hi>Karakatanka.</hi>
+                              </item>
+                              <item>Patna. — <hi>Patna.</hi>
+                              </item>
+                              <item>Jesual. — <hi>Rajapore.</hi>
+                              </item>
+                              <item>Mevat. — <hi>Narval.</hi>
+                              </item>
+                              <item>Udessa. — <hi>Jehanac.</hi>
+                              </item>
+                              <item>Patan. — <hi>Gouro.</hi>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__seven_of_diamonds">
+            <pb facs="tcp:207247:22"/>
+            <pb facs="tcp:207247:22"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved seven of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond</figDesc>
+                     <head>VII</head>
+                     <p>
+                        <hi>7</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of India, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 23 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. V. 1.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 135.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 150.</hi>
+                     </p>
+                     <figure>
+                        <head>The Peninsula of INDIA within y<seg rend="sup">e</seg> GANGES <hi>Contains these VII. large Kingdoms.</hi>
+                        </head>
+                        <p>
+                           <hi>The Kingdome of</hi>
+                           <list>
+                              <item>Aracan. — <hi>Aracan.</hi>
+                              </item>
+                              <item>Pegu. — <hi>Pegu.</hi>
+                              </item>
+                              <item>Siam. — <hi>Odia.</hi>
+                              </item>
+                              <item>Malacca. — <hi>Malacca.</hi>
+                              </item>
+                              <item>Tunquim. — <hi>Kecio.</hi>
+                              </item>
+                              <item>Cochinchina. — <hi>Facfo.</hi>
+                              </item>
+                              <item>Camboia. — <hi>Camboia.</hi>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__six_of_diamonds">
+            <pb facs="tcp:207247:23"/>
+            <pb facs="tcp:207247:23"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved six of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond</figDesc>
+                     <head>VI</head>
+                     <p>
+                        <hi>6</hi>
+                     </p>
+                     <head>The Asiatick Islands <hi>in the</hi> Oriental Ocean <hi>are Reckond under these VI Heads.</hi>
+                     </head>
+                     <figure>
+                        <figDesc>the latitudinal and longitudinal extent of the Maldives, framing the description of the region.</figDesc>
+                        <p>
+                           <hi>Lat. N. 8.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. W. 116.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. E. 117.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. S. 4.</hi>
+                        </p>
+                        <p>The Maldives. — <hi>Male.</hi>
+                        </p>
+                        <figDesc>the latitudinal and longitudinal extent of the Isles of Ceilan, framing the description of the region.</figDesc>
+                        <p>
+                           <hi>Lat. N. 10.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. W. 120.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. E. 124.</hi>
+                        </p>
+                        <p>
+                           <hi>Lat. N. 6.</hi>
+                        </p>
+                        <p>The Isles of Ceilan. — <hi>Candea.</hi>
+                        </p>
+                        <figDesc>the latitudinal and longitudinal extent of the Isles of the Sound, framing the description of the region.</figDesc>
+                        <p>
+                           <hi>Lat. N.7.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. W. 135.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. E. 160.</hi>
+                        </p>
+                        <p>
+                           <hi>Lat. S. 9.</hi>
+                        </p>
+                        <p>The Isles of the Sound.
+<list>
+                              <item>Sumatra. —
+<list>
+                                    <item>
+                                       <hi>Achem.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Borneo. —
+<list>
+                                    <item>
+                                       <hi>Borneo.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Iava. —
+<list>
+                                    <item>
+                                       <hi>Bantam.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Bataoria.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                        <figDesc>the latitudinal and longitudinal extent of the Isles of the Moluccos, framing the description of the region.</figDesc>
+                        <p>
+                           <hi>Lat. N 3.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. W. 160.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. E. 175.</hi>
+                        </p>
+                        <p>
+                           <hi>Lat. S. 10.</hi>
+                        </p>
+                        <p>The Isles of the Moluccos. —
+<list>
+                              <item>
+                                 <hi>Iernate.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iidor.</hi>
+                              </item>
+                              <item>
+                                 <hi>Celebes.</hi>
+                              </item>
+                              <item>
+                                 <hi>Gilolo.</hi>
+                              </item>
+                              <item>
+                                 <hi>Amboina.</hi>
+                              </item>
+                           </list>
+                        </p>
+                        <figDesc>the latitudinal and longitudinal extent of the Philippines, framing the description of the region.</figDesc>
+                        <p>
+                           <hi>Lat. N. 20.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. W. 155.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. E. 170.</hi>
+                        </p>
+                        <p>
+                           <hi>Lat. N. 5.</hi>
+                        </p>
+                        <p>The Philip<g ref="char:EOLhyphen"/>pine Isles.
+<list>
+                              <item>Luson. — <hi>Manille.</hi>
+                              </item>
+                              <item>Mindanao.—<hi>Mindanao.</hi>
+                              </item>
+                              <item>Cebu. — <hi>
+                                    <gap reason="illegible" resp="#oxf" extent="1 word">
+                                       <desc>〈◊〉</desc>
+                                    </gap>
+                                 </hi>
+                              </item>
+                           </list>
+                        </p>
+                        <figDesc>the latitudinal and longitudinal extent of Japan, framing the description of the region.</figDesc>
+                        <p>
+                           <hi>Lat. N. 40.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. W. 170.</hi>
+                        </p>
+                        <p>
+                           <hi>Long. E. 184.</hi>
+                        </p>
+                        <p>
+                           <hi>Lat. N. 30.</hi>
+                        </p>
+                        <p>The Islands of Iapon.—
+<list>
+                              <item>Iapon. — <hi>Meace.</hi>
+                              </item>
+                              <item>Ximo. — <hi>Nangazachi.</hi>
+                              </item>
+                              <item>Xioco. — <hi>Ionso.</hi>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__four_of_diamonds">
+            <pb facs="tcp:207247:24"/>
+            <pb facs="tcp:207247:24"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved four of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond</figDesc>
+                     <head>IV</head>
+                     <p>
+                        <hi>4</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Georgia, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 48.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 43.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 70.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 80.</hi>
+                     </p>
+                     <figure>
+                        <head>GEORGIA <hi>Reckon'd in the</hi> Asiatique Turky <hi>is Subdivided into these IV. Countries.</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>Avogasia. —
+<list>
+                                    <item>
+                                       <hi>S.<seg rend="sup">ta</seg> Sophia.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Mingrelia. —
+<list>
+                                    <item>
+                                       <hi>Savatopoli.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Fazza.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Gurgistan. —
+<list>
+                                    <item>
+                                       <hi>Bassachiue.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Derbent.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Zuiria. —
+<list>
+                                    <item>
+                                       <hi>Stranis, or Albaida.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Zitrach.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Chipicha.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__three_of_diamonds">
+            <pb facs="tcp:207247:25"/>
+            <pb facs="tcp:207247:25"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved three of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond</figDesc>
+                     <head>III</head>
+                     <p>
+                        <hi>3</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of Arabia, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 34.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 12.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 65.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 96.</hi>
+                     </p>
+                     <figure>
+                        <head>ARABIA <hi>is Divided into III. Parts.</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>Arabia, <hi>the Stony.</hi> —
+<list>
+                                    <item>
+                                       <hi>Herat, formerly Petra.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Moab.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Esion-Geber.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Sur.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Arabia, <hi>the Desert.</hi> —
+<list>
+                                    <item>
+                                       <hi>Anna.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Sukana.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Maxat. Ali.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Simiscabat, or Saba.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Arabia, <hi>the Happy.</hi> —
+<list>
+                                    <item>
+                                       <hi>Medina, or Medina Al<g ref="char:EOLhyphen"/>nabi (i.e.) y<seg rend="sup">e</seg> City of y<seg rend="sup">e</seg> Prophet, being y<seg rend="sup">e</seg> place of Mahomets Birth.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Mecca, the place of His Burial.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Zibit.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Aden.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Mascate.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__two_of_diamonds">
+            <pb facs="tcp:207247:26"/>
+            <pb facs="tcp:207247:26"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved two of diamonds playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single diamond</figDesc>
+                     <head>II</head>
+                     <p>
+                        <hi>2</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of the Eastern Mediterranean islands, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 36 ½</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. N. 35.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 58.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 68.</hi>
+                     </p>
+                     <figure>
+                        <head>The II. Considerable ISLANDS <hi>in the</hi> Mediterranean <hi>Reckon'd in Asia are</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>Rhodes. —
+<list>
+                                    <item>
+                                       <hi>Rhodes.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Cyprus. —
+<list>
+                                    <item>
+                                       <hi>Nicosia.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Famagousta.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="playing_card__ace_of_clubs">
+            <pb facs="tcp:207247:27"/>
+            <pb facs="tcp:207247:27"/>
+            <p>
+               <figure>
+                  <figDesc>Engraved ace of clubs playing card.</figDesc>
+                  <figure>
+                     <figDesc>depiction of a single club</figDesc>
+                     <head>I</head>
+                     <p>
+                        <hi>1</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>the latitudinal and longitudinal extent of America, framing the description of the region.</figDesc>
+                     <p>
+                        <hi>Lat. N. 80.</hi>
+                     </p>
+                     <p>
+                        <hi>Lat. S. 54.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. W. 235.</hi>
+                     </p>
+                     <p>
+                        <hi>Long. E. 350.</hi>
+                     </p>
+                     <figure>
+                        <p>AMERI<g ref="char:EOLhyphen"/>CA, <hi>is divided into</hi> —
+<list>
+                              <item>
+                                 <hi>Septentrionalis or y<seg rend="sup">e</seg> Northern America</hi>—
+<list>
+                                    <item>
+                                       <hi>The</hi> Artick Lands.</item>
+                                    <item>Canada <hi>or New</hi> France.</item>
+                                    <item>Virginia <hi>and the</hi> En<g ref="char:EOLhyphen"/>glish Plantations.</item>
+                                    <item>Florida.</item>
+                                    <item>New Mexico</item>
+                                    <item>Mexico <hi>or</hi> New Spain.</item>
+                                    <item>
+                                       <hi>The Isles</hi>
+                                       <list>
+                                          <item>Antilles.</item>
+                                          <item>Lucayes.</item>
+                                          <item>Caribes <hi>or.</hi> Canibal.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>Meridionalis or y<seg rend="sup">e</seg> Southern America</hi>—
+<list>
+                                    <item>Terra firm a <hi>or the</hi>— Main Land.</item>
+                                    <item>Guiana.</item>
+                                    <item>Bresil.</item>
+                                    <item>Peru</item>
+                                    <item>
+                                       <hi>The</hi> Paraguay <hi>or</hi> — Riode la Plata.</item>
+                                    <item>Chili.</item>
+                                    <item>
+                                       <hi>The</hi> Magellanique— Lands.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </p>
+                     </figure>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
